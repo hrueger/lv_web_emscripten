@@ -60,3 +60,5 @@ lvgl.wasm
 # CMake output
 build
 .vscode
+
+.DS_Store
